@@ -1,1 +1,1 @@
-console.log("kv madarchod")
+console.log("kv")
